@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am finishing my studies taken at Federico II in computer science. <br>I am currently attending the apple developer academy, studying Swift. <br>I know object-oriented programming languages like Java, kotlin and languages like C.<br><br><br>
+##I am finishing my studies taken at Federico II in computer science. <br>I am currently attending the apple developer academy, studying Swift. <br>I know object-oriented programming languages like Java, kotlin and## ##languages like C.<br><br><br>
 
 
 ## 🌐 Socials:
