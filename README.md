@@ -1,5 +1,13 @@
-# 💫 About Me:
-I am finishing my studies taken at Federico II in computer science. <br>I am currently attending the apple developer academy, studying Swift. <br>I know object-oriented programming languages like Java, kotlin and languages like C.<br><br><br>
+## 👨‍💻 About Me
+
+<h2>Gianpietro Panico</h2>
+
+<p>
+I'm 24 years old and currently finishing my Computer Science degree at the University of Federico II in Naples.<br>
+At the same time, I'm attending the Apple Developer Academy, where I'm focusing on app development with Swift.<br>
+I have experience with object-oriented programming languages such as Java and Kotlin, as well as C.<br>
+I'm passionate about innovation, creating useful digital solutions, and continuous learning.
+</p>
 
 
 ## 🌐 Socials:
