@@ -20,7 +20,7 @@ I'm passionate about innovation, creating useful digital solutions, and continuo
 <ul>
   <li>
     <a href="https://github.com/gianpietropanico/Librarians" target="_blank">The Librarians App</a><br>
-    <i>(Android, Kotlin, Docker, PostgreSQL, REST API)</i><br>
+    <i>(Java, Docker, PostgreSQL, Socket, Xml, Android)</i><br>
   </li>
 
 
