@@ -19,7 +19,7 @@ I'm passionate about innovation, creating useful digital solutions, and continuo
 ### 🎓 University Projects
 <ul>
   <li>
-    <a href="https://github.com/gianpietropanico/Librarians" target="_blank">The Librarians App</a><br>
+    <a href="https://github.com/gianpietropanico/Librarians" target="_blank">Librarians</a><br>
     <i>(Java, Docker, PostgreSQL, Socket, Xml, Android)</i><br>
   </li>
 
