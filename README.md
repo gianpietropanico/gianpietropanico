@@ -17,9 +17,11 @@ I'm passionate about innovation, creating useful digital solutions, and continuo
 
 
 ### 🎓 University Projects
-- **The Librarians App**  
-  A full-stack project developed for a university exam, including an Android app and a backend server using Docker.  
-  [GitHub Repository](https://github.com/AntonioTagliafierro/TheLibrariansApp)
+<ul>
+  <li>
+    <a href="https://github.com/gianpietropanico/Librarians" target="_blank">The Librarians App</a><br>
+    <i>(Android, Kotlin, Docker, PostgreSQL, REST API)</i><br>
+  </li>
 
 
 ---
