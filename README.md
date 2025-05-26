@@ -37,10 +37,9 @@ I'm passionate about innovation, creating useful digital solutions, and continuo
   ### 🎮 Game Mobile Application
 <ul>
   <li>
-    <a href="https://github.com/Githubense/Molly" target="_blank">Molly's Canvas</a>
-    <br><i>(Unity Engine, C#)</i><br>
+    <a href="https://github.com/Githubense/Molly" target="_blank">Molly</a><br>
+    <i>(Unity Engine, C#)</i><br>
   </li>
-</ul>
 
 ---
 
