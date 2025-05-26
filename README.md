@@ -16,7 +16,6 @@ I'm passionate about innovation, creating useful digital solutions, and continuo
 ### 📲 iOS Apps
 
 ### 🎓 University Projects
-<ul>
   <li>
     <a href="https://github.com/gianpietropanico/Librarians" target="_blank">Librarians</a><br>
     <i>(Java, Docker, PostgreSQL, Xml, C Socket, Android)</i><br>
@@ -35,7 +34,6 @@ I'm passionate about innovation, creating useful digital solutions, and continuo
   </li>
 
   ### 🎮 Game Mobile Application
-<ul>
   <li>
     <a href="https://github.com/Githubense/Molly" target="_blank">Molly</a><br>
     <i>(Unity Engine, C#)</i><br>
