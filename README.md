@@ -15,14 +15,24 @@ I'm passionate about innovation, creating useful digital solutions, and continuo
 
 ### 📲 iOS Apps
 
-
 ### 🎓 University Projects
 <ul>
   <li>
-    <a href="https://github.com/gianpietropanico/Librarians" target="_blank">Librarians</a><br>
-    <i>(Java, Docker, PostgreSQL, Socket, Xml, Android)</i><br>
+    <a href="https://github.com/gianpietropanico/Librarians" target="_blank">The Librarians App</a><br>
+    <i>(Android, Kotlin, Docker, PostgreSQL, REST API)</i><br>
   </li>
-
+  <li>
+    <a href="https://github.com/gianpietropanico/LibreriaGrafi" target="_blank">LibreriaGrafi</a><br>
+    <i>(Java, Data Structures, Graph Algorithms)</i><br>
+  </li>
+  <li>
+    <a href="https://github.com/gianpietropanico/ProjectManagement" target="_blank">ProjectManagement</a><br>
+    <i>(Java, Object-Oriented Design, UML, File I/O)</i><br>
+  </li>
+  <li>
+    <a href="https://github.com/gianpietropanico/INGSW_24-25-DietiEstates25" target="_blank">DietiEstates25</a><br>
+    <i>(Agile Teamwork, Java, MVC Pattern, GitHub Project Boards)</i><br>
+  </li>
 
 ---
 
