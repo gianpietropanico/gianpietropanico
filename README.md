@@ -11,7 +11,7 @@ I'm passionate about innovation, creating useful digital solutions, and continuo
 
 ---
 
-## 📱 Projects
+## 🧑🏼‍💻 Projects 🧑🏼‍💻
 
 ### 📲 iOS Apps
 
