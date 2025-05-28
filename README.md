@@ -18,8 +18,11 @@ I'm passionate about innovation, creating useful digital solutions, and continuo
     <a href="https://github.com/gianpietropanico/PomoTracker" target="_blank">PomoTracker</a><br>
     <i>(Swift, SwiftData)</i><br>
   </li>
-
-
+    <li>
+    <a href="https://github.com/NigoraMamad/CBT-Insomnia" target="_blank">CBT-Insomnia</a><br>
+    <i>(Swift, SwiftData)</i><br>
+  </li>
+  
 ### 🎓 University Projects
   <li>
     <a href="https://github.com/gianpietropanico/Librarians" target="_blank">Librarians</a><br>
