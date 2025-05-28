@@ -14,6 +14,11 @@ I'm passionate about innovation, creating useful digital solutions, and continuo
 ## 🧑🏼‍💻 Projects 🧑🏼‍💻
 
 ### 📲 iOS Apps
+  <li>
+    <a href="https://github.com/gianpietropanico/PomoTracker" target="_blank">PomoTracker</a><br>
+    <i>(Swift, SwiftData)</i><br>
+  </li>
+
 
 ### 🎓 University Projects
   <li>
