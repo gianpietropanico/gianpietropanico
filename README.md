@@ -3,10 +3,10 @@
 <h2>Gianpietro Panico</h2>
 
 <p>
-I'm 24 years old and currently finishing my Computer Science degree at the University of Federico II in Naples.<br>
-At the same time, I'm attending the Apple Developer Academy, where I'm focusing on app development with Swift.<br>
-I have experience with object-oriented programming languages such as Java and Kotlin, as well as C.<br>
-I'm passionate about innovation, creating useful digital solutions, and continuous learning.
+I was born in 2000 and I’m currently completing my degree in Computer Science at the University of Federico II in Naples.
+In parallel, I’m attending the Apple Developer Academy, where I’m focusing on app development using Swift.
+I particularly enjoy working on the frontend and have a strong interest in design. I like creating prototypes and thinking through system requirements to shape intuitive and functional digital solutions.
+I’m passionate about innovation, building useful apps, and constantly improving through continuous learning.
 </p>
 
 ---
