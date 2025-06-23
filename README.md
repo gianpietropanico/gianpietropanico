@@ -20,7 +20,7 @@ I’m passionate about innovation, building useful apps, and constantly improvin
   </li>
     <li>
     <a href="https://github.com/NigoraMamad/CBT-Insomnia" target="_blank">CBT-Insomnia</a><br>
-    <i>(Swift, SwiftData)</i><br>
+    <i>(Swift, SwiftData, HealthKit, Apple Watch Integration (watchOS), CoreMotion)</i><br>
   </li>
   
 ### 🎓 University Projects
